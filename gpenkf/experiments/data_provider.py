@@ -1,0 +1,2 @@
+class DataProvider(object):
+    pass
